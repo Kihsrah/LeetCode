@@ -21,8 +21,7 @@ public:
                 even->next = head;
                 head = head->next;
                 even = even->next;
-            }
-            else {
+            } else {
                 odd->next = head;
                 head = head->next;
                 odd = odd->next;
@@ -32,6 +31,6 @@ public:
         even->next = nullptr;
         odd->next = evenDummy.next;
 
-        return oddDummy.next; 
+        return oddDummy.next;
     }
 };
