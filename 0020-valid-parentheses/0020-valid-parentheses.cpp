@@ -3,17 +3,14 @@ public:
     bool isValid(string s) {
         stack<char> ss;
 
-        for (char c: s) {
+        for (char c : s) {
             if (c == '(') {
                 ss.push(')');
-            }
-            else if (c == '{') {
+            } else if (c == '{') {
                 ss.push('}');
-            }
-            else if (c == '[') {
+            } else if (c == '[') {
                 ss.push(']');
-            }
-            else {
+            } else {
                 if (ss.empty() || c != ss.top()) {
                     return false;
                 }
