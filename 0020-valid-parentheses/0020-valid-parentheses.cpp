@@ -4,17 +4,20 @@ public:
         stack<char> ss;
 
         for (char c : s) {
-            if (c == '(') {
-                ss.push(')');
-            } else if (c == '{') {
-                ss.push('}');
-            } else if (c == '[') {
-                ss.push(']');
+            if (c == '(' || c == '{' || c == '[') {
+                ss.push(c);
             } else {
-                if (ss.empty() || c != ss.top()) {
+                if (ss.empty())
+                    return false;
+
+                char top = ss.top();
+
+                if (c == ')' && top == '(' || c == '}' && top == '{' ||
+                    c == ']' && top == '[') {
+                    ss.pop();
+                } else {
                     return false;
                 }
-                ss.pop();
             }
         }
         return ss.empty();
