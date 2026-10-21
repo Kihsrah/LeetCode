@@ -49,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kihsrah/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Kihsrah/LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kihsrah/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kihsrah/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kihsrah/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Kihsrah/LeetCode/tree/master/0231-power-of-two) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kihsrah/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bit Manipulation
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kihsrah/LeetCode/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kihsrah/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kihsrah/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
