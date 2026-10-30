@@ -20,10 +20,9 @@ public:
         while (fast != nullptr && fast->next != nullptr) {
             fast = fast->next->next;
             slow = slow->next;
-        }
+        }  
 
         slow->next = slow->next->next;
-
         return dummy.next;
     }
 };
