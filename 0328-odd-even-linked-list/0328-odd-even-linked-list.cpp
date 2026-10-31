@@ -19,13 +19,12 @@ public:
         while (head != nullptr) {
             if (count % 2 == 0) {
                 even->next = head;
-                head = head->next;
                 even = even->next;
             } else {
                 odd->next = head;
-                head = head->next;
                 odd = odd->next;
             }
+            head = head->next;
             count++;
         }
         even->next = nullptr;
