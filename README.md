@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Kihsrah/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kihsrah/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Kihsrah/LeetCode/tree/master/0496-next-greater-element-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Kihsrah/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kihsrah/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Kihsrah/LeetCode/tree/master/0739-daily-temperatures) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kihsrah/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Kihsrah/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/Kihsrah/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
