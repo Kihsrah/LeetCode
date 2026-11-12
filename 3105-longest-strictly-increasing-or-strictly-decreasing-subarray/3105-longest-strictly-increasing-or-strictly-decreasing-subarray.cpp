@@ -9,7 +9,7 @@ public:
         for (int i = 1; i < nums.size(); i++) {
             if (nums[i] < nums[i - 1]) {
                 temp++;
-                inc_count = max(inc_count, temp);
+                dec_count = max(dec_count, temp);
             } else {
                 temp = 1;
             }
@@ -18,7 +18,7 @@ public:
         for (int i = 1; i < nums.size(); i++) {
             if (nums[i] > nums[i - 1]) {
                 temp++;
-                dec_count = max(dec_count, temp);
+                inc_count = max(inc_count, temp);
             } else {
                 temp = 1;
             }
