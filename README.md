@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kihsrah/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Kihsrah/LeetCode/tree/master/0739-daily-temperatures) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kihsrah/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kihsrah/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kihsrah/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/Kihsrah/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Floyd's Cycle Finding Algorithm
