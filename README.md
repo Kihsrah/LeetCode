@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Kihsrah/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Kihsrah/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Kihsrah/LeetCode/tree/master/0739-daily-temperatures) |
+| [1470-shuffle-the-array](https://github.com/Kihsrah/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Kihsrah/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kihsrah/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kihsrah/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
