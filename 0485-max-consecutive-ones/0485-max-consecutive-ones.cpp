@@ -6,7 +6,7 @@ public:
         while (i < nums.size()) {
             int count = 0;
             if (nums[i] == 1) {
-                while(i < nums.size() && nums[i] == 1) {
+                while (i < nums.size() && nums[i] == 1) {
                     count++;
                     i++;
                 }
