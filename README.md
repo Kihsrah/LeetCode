@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Kihsrah/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Kihsrah/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kihsrah/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2974-minimum-number-game](https://github.com/Kihsrah/LeetCode/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kihsrah/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kihsrah/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/Kihsrah/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kihsrah/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2974-minimum-number-game](https://github.com/Kihsrah/LeetCode/tree/master/2974-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -137,4 +139,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Kihsrah/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/Kihsrah/LeetCode/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Kihsrah/LeetCode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
