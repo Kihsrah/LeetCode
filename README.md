@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kihsrah/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Kihsrah/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kihsrah/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kihsrah/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0485-max-consecutive-ones](https://github.com/Kihsrah/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Kihsrah/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Kihsrah/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kihsrah/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Kihsrah/LeetCode/tree/master/0071-simplify-path) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kihsrah/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Kihsrah/LeetCode/tree/master/2974-minimum-number-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kihsrah/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
