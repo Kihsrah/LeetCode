@@ -10,8 +10,8 @@ public:
                 ans.push_back(longest[j]);
                 j++;
             }
-            longest = ans;
-            ans = "";
+            longest.resize(j);
+            if (longest == "") return "";
         }
         return longest;
     }
