@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kihsrah/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Kihsrah/LeetCode/tree/master/0739-daily-temperatures) |
 | [1470-shuffle-the-array](https://github.com/Kihsrah/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kihsrah/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Kihsrah/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kihsrah/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/Kihsrah/LeetCode/tree/master/2974-minimum-number-game) |
