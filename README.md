@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kihsrah/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Kihsrah/LeetCode/tree/master/0231-power-of-two) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kihsrah/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kihsrah/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kihsrah/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 ## Bit Manipulation
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Kihsrah/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Kihsrah/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Kihsrah/LeetCode/tree/master/0739-daily-temperatures) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kihsrah/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1470-shuffle-the-array](https://github.com/Kihsrah/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kihsrah/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Kihsrah/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -131,13 +133,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Kihsrah/LeetCode/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kihsrah/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Kihsrah/LeetCode/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kihsrah/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kihsrah/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/Kihsrah/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
