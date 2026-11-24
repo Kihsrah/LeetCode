@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Kihsrah/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Kihsrah/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kihsrah/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0165-compare-version-numbers](https://github.com/Kihsrah/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Kihsrah/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kihsrah/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Kihsrah/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kihsrah/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Kihsrah/LeetCode/tree/master/0071-simplify-path) |
+| [0165-compare-version-numbers](https://github.com/Kihsrah/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kihsrah/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/Kihsrah/LeetCode/tree/master/1446-consecutive-characters) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kihsrah/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
