@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Kihsrah/LeetCode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Kihsrah/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kihsrah/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0316-remove-duplicate-letters](https://github.com/Kihsrah/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Kihsrah/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Kihsrah/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Kihsrah/LeetCode/tree/master/0901-online-stock-span) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Kihsrah/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Kihsrah/LeetCode/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/Kihsrah/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0316-remove-duplicate-letters](https://github.com/Kihsrah/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kihsrah/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/Kihsrah/LeetCode/tree/master/1446-consecutive-characters) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kihsrah/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Kihsrah/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Kihsrah/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Kihsrah/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Kihsrah/LeetCode/tree/master/0901-online-stock-span) |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Kihsrah/LeetCode/tree/master/0278-first-bad-version) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Kihsrah/LeetCode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
