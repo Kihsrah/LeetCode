@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kihsrah/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Kihsrah/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kihsrah/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
+| [3360-stone-removal-game](https://github.com/Kihsrah/LeetCode/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Kihsrah/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/Kihsrah/LeetCode/tree/master/2974-minimum-number-game) |
+| [3360-stone-removal-game](https://github.com/Kihsrah/LeetCode/tree/master/3360-stone-removal-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
