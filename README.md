@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Kihsrah/LeetCode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Kihsrah/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kihsrah/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Kihsrah/LeetCode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Kihsrah/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Kihsrah/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Kihsrah/LeetCode/tree/master/0739-daily-temperatures) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Kihsrah/LeetCode/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/Kihsrah/LeetCode/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Kihsrah/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
